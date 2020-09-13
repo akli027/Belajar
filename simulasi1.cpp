@@ -58,7 +58,7 @@ int main()
 {
 	
 	cout<<"Masukkan data :";
-	
+	cout<<"coba aja dulu :";
 	udah ini riris;
 	return 0;
 }

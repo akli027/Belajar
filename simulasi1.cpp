@@ -59,6 +59,7 @@ int main()
 	
 	cout<<"Masukkan data :";
 	cout<<"coba aja dulu :";
+	coba<<"akli baru :";
 	udah ini riris;
 	return 0;
 }
